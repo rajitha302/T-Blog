@@ -1,0 +1,18 @@
+/*
+Theme Name: Blog
+Author: Tracified
+Author URI: https://tracified.com
+Version: 1.0
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+/* Navigation */
+
+.card {
+    background-color: red;
+}
